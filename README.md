@@ -1,6 +1,3 @@
-# Jan Lukasz Wrobel's GitHub Profile
-
-## Introduction
 👋Hello! My name is Jan Lukasz Wrobel, and I'm a Mechanical Engineer with experience in Power Press Setting at Honeywell, as well as a background in Quality Control at Olympus UK. I'm also currently pursuing a Software Engineering bootcamp at HyperionDev to expand my skills in Python, HTML, CSS, Django, and SQL.
 
 In my free time, I enjoy:
@@ -47,6 +44,7 @@ In my free time, I enjoy:
 🔹Master of Engineering degree  in Mechanical Engineering from Koszalin University of Technology (2005-2012)
 ## Work Experience
 🔹Power Press Setter at Honeywell
+
 🔹Quality Control at Olympus UK
 ## Contact Me
 Feel free to reach out to me on LinkedIn at linkedin.com/in/jan-lukasz-wrobel/.
