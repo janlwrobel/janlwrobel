@@ -1,6 +1,8 @@
 ## Jan Lukasz Wrobel
 
-Hello👋! My name is Jan Lukasz Wrobel, and I'm a Mechanical Engineer with experience in Power Press Setting at Honeywell, as well as a background in Quality Control at Olympus UK. I'm also currently pursuing a Software Engineering bootcamp at HyperionDev to expand my skills in Python, C++, HTML, CSS, Django, and SQL.
+Hello👋! 
+
+Mechanical engineer with a passion for technology and a talent for Python and C++. Constantly striving for improvement and eager to learn more about the tech industry, I am always on the lookout for exciting new projects and challenges. With a focus on problem-solving, creativity, and attention to detail, I bring a unique perspective to my work that is fueled by my top CliftonStrengths of Intellection, Deliberative, Analytical, Ideation, and Futuristic. Let's connect and collaborate on something great.
 
 In my free time, I enjoy:
 
